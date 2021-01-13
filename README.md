@@ -11,3 +11,4 @@ Hi, my name is Aaron Akhtar, I am a Java Developer with over **4 Years of Experi
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=aaron-akhtar&show_icons=true&hide_border=true" />
 
 *Some of the older projects / earlier projects are archived projects from a while ago that I decided to upload for the history of my development improvement.*
+<img src="https://komarev.com/ghpvc/?username=Aaron-Akhtar&style=flat-square" alt="views" />
